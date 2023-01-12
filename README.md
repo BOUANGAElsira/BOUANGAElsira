@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-### Hi there 👋
 ### I am Elsira Emanuella BOUANGA-NIAMBI, You can call me Elsira. I am a full stack and mobile developer
 
 - 🔭 I’m currently working on Machine Learning with Python
@@ -32,7 +30,8 @@
 ![Sass](https://img.shields.io/badge/sass-black?style=for-the-badge&logo=sass&logoColor=pink) 
 ![Ext JS](https://img.shields.io/badge/sencha-ext%20js-blue.svg?style=for-the-badge&logo=sencha&logoColor=white) 
 ![Tailwind css](https://img.shields.io/badge/tailwind%20css-%2320232a.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB)
- 
+![Dart](https://img.shields.io/badge/dart-6DA55F?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-6DA55F?style=for-the-badge&logo=flutter&logoColor=white)
 
 #### Backend
 
