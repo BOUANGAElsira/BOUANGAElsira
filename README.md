@@ -21,7 +21,7 @@
 
 #### Frontend
 
-![Vue js](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png) 
+![Vue js](https://img.shields.io/badge/vue.js-green?style=for-the-badge&logo=vue.js&logoColor=whit) 
 ![Dart](https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
 
