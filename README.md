@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Elsira Emanuella BOUANGA-NIAMBI, You can call me Elsira. I am a full stack and mobile developer
 
-- 💬 Ask me about Vue.js, Html, Spring boot
+- 💬 Ask me about Vue.js, Html, Spring boot...
 
 ### Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-purple.svg?logo=gmail&logoColor=white)](mailto:elsirema3@gmail.com)
