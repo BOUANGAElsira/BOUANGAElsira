@@ -1,10 +1,7 @@
 ### Hi there 👋
 ### I am Elsira Emanuella BOUANGA-NIAMBI, You can call me Elsira. I am a full stack and mobile developer
 
-- 🔭 I’m currently working on Machine Learning with Python
-- 💬 Ask me about Angular, Html, Scss, Spring boot
-- 🤔 I’m looking for help with Python(Machine Learning)
-- ⚡ Fun fact: Football, Music (Piano 🎹)
+- 💬 Ask me about Vue.js, Html, Spring boot
 
 ### Contact me
 [![Gmail](https://img.shields.io/badge/Gmail-purple.svg?logo=gmail&logoColor=white)](mailto:elsirema3@gmail.com)
@@ -36,24 +33,14 @@
 #### Backend
 
 ![Spring Boot](https://img.shields.io/badge/springBoot-%23239120.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-6DA55F?style=for-the-badge&logo=dart&logoColor=white)
 
-#### Microservices
-
-![Spring Cloud](https://img.shields.io/badge/spring%20cloud-%23239120.svg?style=for-the-badge&logo=springcloudconfig&logoColor=white) 
-![Consul Discovery Service](https://img.shields.io/badge/consul%20discovery-pink.svg?style=for-the-badge&logo=consul&logoColor=white) 
-![resilience4j](https://img.shields.io/badge/resilience4j-green.svg?style=for-the-badge&logo=resilience4j&logoColor=white) 
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-orange.svg?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
- 
 #### Others
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white) 
 ![Scrum](https://img.shields.io/badge/scrum-red.svg?style=for-the-badge&logo=scrum&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Trello](https://img.shields.io/badge/trello-blue.svg?style=for-the-badge&logo=trello&logoColor=white) 
 
 ### My skills 😛
 
@@ -72,8 +59,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
